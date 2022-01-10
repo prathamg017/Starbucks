@@ -1,0 +1,93 @@
+ h1,h2,h3,p{
+color: black;
+}
+.firstpage h1,p,h2{
+  color: white;
+
+}
+img{
+  width: 100%;
+  height: 10%;
+}
+.navbar-brand{
+  margin-right: : 5px;
+  margin: 10px;
+  padding: 0px;
+  border: 0px;
+  width: 50px;
+
+}
+.nav-item1{
+  margin-left: 1000px;
+}
+.firstpage {
+  margin-top: 300px;
+  margin-left: 50px
+
+
+
+
+}
+.coffee {
+  width: 30%;
+  height: 2%;
+  float: right;
+  margin-top: 00px;
+}
+.firstpage button{
+  border-radius: 20px 20px 20px 20px;
+  background-color: #61B15A;
+  width: 150px;
+  color: white;
+  margin-left: 0px;
+  margin-top: 50px;
+}
+.secondpage{
+  background-color: white;
+  text-align: center;
+
+
+
+}
+ .one {
+  background-color: #064635;
+}
+nav{
+   position: sticky;
+}
+.coffee{
+  height: 10%;
+  width: 26.7%;
+}
+.secondpage h2,p{
+  color: black;
+}
+.numbers{
+  display: inline-block;
+  margin: 5px;
+  margin-top: 50px;
+  padding: 5px;
+
+}
+.thirdpage
+{
+   background-color: #d4e9e2;
+   text-align: center;
+   padding: 50px;
+
+}
+
+.thirdpage h3,p{
+  color: black;
+}
+.rew{
+  background-color: #E7FBBE;
+  display: inline-block;
+  margin: 5px;
+  margin-top: 50px;
+  padding: 5px;
+  margin-left: 200px;
+}
+.fourthpage{
+  background-color: #f3f1e7;
+}
